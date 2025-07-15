@@ -19,7 +19,7 @@
   "dependencies": {
     "@babel/core": "7.12.10",
     "@babel/polyfill": "7.2.5",
-    "@babel/preset-env": "7.12.11",
+    "@babel/preset-env": "7.27.2",
     "axios": "0.21.1",
     "babel-loader": "8.2.2",
     "bcryptjs": "^2.4.3",
