@@ -17,7 +17,7 @@
   "author": "",
   "license": "GPL-2.0",
   "dependencies": {
-    "@babel/core": "7.12.10",
+    "@babel/core": "7.27.4",
     "@babel/polyfill": "7.2.5",
     "@babel/preset-env": "7.12.11",
     "axios": "0.21.1",
